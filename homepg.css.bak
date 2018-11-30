@@ -1,5 +1,5 @@
 body {
-	background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Photos-Desktop-Sci-Fi-Download-PIC-WPE007931.jpg");
+	 background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Photos-Desktop-Sci-Fi-Download-PIC-WPE007931.jpg");
 }
 
 h1 {
@@ -82,7 +82,8 @@ a:active {
 }
 
 .trash {
-	display:grid;
+
+		display:grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 20%;
 	margin-left:10%;
@@ -94,8 +95,8 @@ a:active {
 
 
 h4 {
-	color: white;
-	font-family: oswald;
+		color: white;
+		font-family: oswald;
 }
 
 
